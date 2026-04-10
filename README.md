@@ -16,3 +16,6 @@ https://courses.skillsbuild.skillsnetwork.site/certificates/2da1175aac984de2af86
 Certificate Project Management - Link to Certification :
 https://skills.yourlearning.ibm.com/certificate/PLAN-B2DE5C927EEC
 
+Trimester 3 - Certificates : Introduction to Cloud Computing / Cybersecurity Fundamentals
+
+Certificate Cybersecurity Fundamentals - Link to Certification : https://skills.yourlearning.ibm.com/certificate/PLAN-4FB8400F05FC
